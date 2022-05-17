@@ -1,0 +1,12 @@
+{
+  "description": "Personal website",
+  "repo": "https://github.com/AwesomePotatoCodes/awesomepotatocodes.github.io/",
+  "owner": {
+    "username": "AwesomePotatoCodes",
+    "email": "lolzthegreat@mail.com",
+    "twitter": "I don't use Twitter, if this is for contact, email me instead."
+  },
+  "record": {
+    "CNAME": "awesomepotatocodes.github.io"
+  }
+}
